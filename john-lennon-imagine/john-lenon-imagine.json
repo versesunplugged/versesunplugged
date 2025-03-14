@@ -1,0 +1,118 @@
+{
+	"artist": "John Lennon",
+	"title": "Imagine",
+	"description": "",
+	"text": [
+			[
+				"Imagine there's no heaven,",
+				"it's easy if you try!",
+				"No hell below us,",
+				"above us, only sky.",
+				"Imagine all the people",
+				"livin' for today.",
+				"Ah!"
+			],
+			[
+				"Imagine there's no countries,",
+				"it isn't hard to do!",
+				"Nothing to kill or die for,",
+				"and no religion, too!",
+				"Imagine all the people",
+				"livin' life in peace!",
+				"You!"
+			],
+			[
+				"You may say I'm a dreamer,",
+				"but I'm not the only one.",
+				"I hope someday you'll join us,",
+				"and the world will be as one."
+			],
+			[
+				"Imagine no possessions,",
+				"I wonder if you can!",
+				"No need for greed or hunger,",
+				"A brotherhood of man.",
+				"Imagine all the people",
+				"sharing all the world!",
+				"You!"
+			],
+			[
+				"You may say I'm a dreamer,",
+				"but I'm not the only one.",
+				"I hope someday you'll join us,",
+				"and the world will live as one!"
+			]
+		],
+	"figures": [
+		{
+			"name": "Performer-Lennon-John",
+			"prompt": "Performer-Lennon-John has a face that combines both strength and a laid-back charisma. His high cheekbones are prominent, giving him a slightly angular and sculpted appearance. His nose is long, slightly hooked, and well-defined, creating an almost aristocratic profile. His eyes are a striking, intense blue, framed by thick, expressive eyebrows that are dark and bold. These eyebrows curve slightly upward at the outer edges, adding a sense of intensity to his gaze. He wears a pair of signature round glasses with thin, black metal frames that have pink-tinted lenses, slightly distorting the sharpness of his eyes. His lips are full but relaxed, with a subtle, often contemplative smile. His face has a light layer of stubble, adding a rugged touch to his otherwise clean-cut features. His hair is thick and wavy, parted down the middle and cascading to his shoulders in textured, slightly messy layers, creating a wild yet controlled appearance. His hairline is a bit uneven, with slight recession at the temples."
+		},
+		{
+			"name": "Hippie-Lennon-John",
+			"prompt": "Hippie-Lennon-John has a soft and dreamy face, with well-defined high cheekbones that give him a youthful yet slightly ethereal look. His nose is long, straight, and slightly slender, giving him an elegant profile. His bright blue eyes are intense but peaceful, framed by thick, slightly unruly eyebrows that match his wavy, shoulder-length hair. His glasses are iconic round frames, with bright pink lenses that lend a quirky, whimsical touch to his face. His lips are fuller, often forming a relaxed, serene smile, as if he’s always at peace with the world around him. He has a light beard or stubble, adding a bit of texture to his soft features. His hair is long, thick, and very wavy, with loose, natural curls falling around his face and shoulders, giving him a carefree, bohemian vibe. The hair is parted messily on the side, often pushed back in some places. He has a calm, relaxed posture, often seen with his head tilted slightly, as if he’s lost in thought or spreading peace and love to those around him. His expression is gentle, approachable, and idealistic, as if always envisioning a better, more harmonious world."
+		}
+	],
+	"shots": [
+		{
+			"number": 1,
+			"audio_duration": 10.3,
+			"figures": ["Performer-Lennon-John"],
+			"image_prompt": "Performer-Lennon-John performing live on stage, seated with a guitar, singing into a microphone. Soft, warm lighting with a gentle spotlight effect.",
+			"timestamp": "0:00.0",
+			"duration": 10.3,
+			"camera_motion": "Slow zoom-out, slight rotation.",
+			"camera_motion_graph": "Ease Out",
+			"transition_out": "Mix",
+			"transition_duration": 3.0
+		},
+		{
+			"number": 2,
+			"audio_duration": 10.8,
+			"figures": ["Performer-Lennon-John", "Hippie-Lennon-John"],
+			"image_prompt": "Performer-Lennon-John performing on stage on the left, and a vibrant, colorful festival setting on the right with Hippie-Lennon-John, dressed in bright clothes covered with peace and anarchy symbols, arms outstretched as if spreading a message of peace.",
+			"timestamp": "0:10.3",
+			"duration": 10.8,
+			"camera_motion": "Slight tilt up, moving from Performer-Lennon-John performing to Hippie-Lennon-John in the festival scene.",
+			"camera_motion_graph": "Ease Out",
+			"transition_out": "Wipe Right",
+			"transition_duration": 3.0
+		},
+		{
+			"number": 3,
+			"audio_duration": 6.9,
+			"figures": ["Hippie-Lennon-John"],
+			"image_prompt": "Hippie-Lennon-John at a peaceful music festival, surrounded by a crowd, wearing bright, colorful clothing and round glasses. A large peace sign in the background, with warm sunset colors and a calm, dreamlike atmosphere.",
+			"timestamp": "0:21.1",
+			"duration": 6.9,
+			"camera_motion": "Slow zoom-in on Hippie-Lennon-John.",
+			"camera_motion_graph": "Ease In",
+			"transition_out": "Black Fade",
+			"transition_duration": 3.0
+		},
+		{
+			"number": 4,
+			"audio_duration": 8.8,
+			"figures": ["Performer-Lennon-John"],
+			"image_prompt": "Performer-Lennon-John on stage, seated with a guitar, singing passionately. Soft, golden stage lighting with a calm, minimalist background emphasizing unity and simplicity.",
+			"timestamp": "0:28.0",
+			"duration": 8.8,
+			"camera_motion": "Slow pan across the stage to emphasize John's singing and the simplicity of the scene",
+			"camera_motion_graph": "Linear",
+			"transition_out": "Fold Over",
+			"transition_duration": 3.0
+		},
+		{
+			"number": 5,
+			"audio_duration": 6.9,
+			"figures": ["Performer-Lennon-John", "Hippie-Lennon-John"],
+			"image_prompt": "Performer-Lennon-John and Hippie-Lennon-John standing together, holding hands with a diverse crowd of people behind them, all singing in unison. A glowing, dreamlike sunset fills the sky, emphasizing unity and harmony.",
+			"timestamp": "00:36.8",
+			"duration": 6.9,
+			"camera_motion": "Slow zoom-out, gradually showing the crowd and sunset",
+			"camera_motion_graph": "Ease Out",
+			"transition_out": "Camera Shutter",
+			"transition_duration": 3.0
+		}
+	]
+}

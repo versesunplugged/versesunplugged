@@ -1,0 +1,63 @@
+{
+	"artist": "Jimi Hendrix",
+	"title": "Purple Haze"
+	"text": [
+		[
+			"Purple haze, all in my brain",
+			"Lately things, they don't seem the same",
+			"Actin' funny, but I don't know why",
+			"Excuse me, while I kiss the sky"
+		],
+		[
+			"Purple haze, all around",
+			"Don't know, if I'm comin' up or down",
+			"Am I happy, or in misery?",
+			"Whatever it is, that girl put a spell on me"
+		],
+		[
+			"Purple haze, all in my eyes",
+			"Don't know, if it's day or night",
+			"You got me blowin', blowin' my mind",
+			"Is it tomorrow, or just the end of time?"
+		]
+	],
+	"figures": [
+		{
+			"name": "HendrixJimmy",
+			"prompt": "HendrixJimmy has a narrow oval face with high cheekbones and a tapered jawline. His skin is warm medium-brown with slight reddish undertones. Wide-set almond-shaped brown eyes with long lashes, partially obscured by lids that sit at ¾ mast, giving a relaxed intensity. Full lips slightly parted, revealing a small gap between the front teeth. A thin mustache follows the curve of his upper lip, connecting to sideburns that frame a clean-shaven jaw. His hair forms a voluminous afro (6-inch radius) with tight S-shaped curls, parted slightly off-center. A red cotton bandana tied around the crown of his head, with the knot positioned at the left temple. Wears a black velvet blazer with notched lapels over a cream silk shirt unbuttoned to mid-chest, revealing a silver medallion on a leather cord. Skinny black denim jeans with a 28-inch inseam, bunched over brown leather Chelsea boots. Hands are slender with long fingers, calloused at the fingertips, permanently arched in a B minor chord formation. Posture features a forward-leaning stance with right shoulder slightly raised during solos."
+		}
+	],
+	"shots": [
+		{
+			"number": 1,
+			"duration": 10.5,
+			"figures": ["HendrixJimmy"],
+			"image_prompt": "HendrixJimmy on a dimly lit stage, backlit by a single amber spotlight. Smoke machine haze catches the light as he bends backward mid-solo, teeth gritted, Fender Stratocaster held vertically against his hips. Camera angle: low 3/4 view emphasizing his afro silhouette against the haze.",
+			"timestamp": "0:00.0",
+			"camera_motion": "Slow dolly zoom matching guitar feedback swell",
+			"camera_motion_graph": "Ease Out",
+			"transition_out": "Glitch",
+			"transition_duration": 2.5
+		},
+		{
+			"number": 2,
+			"duration": 10.0,
+			"figures": ["HendrixJimmy"],
+			"image_prompt": "Close-up of HendrixJimmy's hands: left fingers vibrating a bent blue note on the 14th fret, right hand using a Zippo lighter as a slide. Sweat droplets fly from his wrist into the spotlight beam. Marshall amp stack glows red-hot in background.",
+			"timestamp": "0:10.5",
+			"camera_motion": "Tight circular orbit around guitar neck",
+			"camera_motion_graph": "Quadratic In",
+			"transition_out": "Radial Blur",
+			"transition_duration": 3.0
+		},
+		{
+			"number": 3,
+			"duration": 10.0,
+			"figures": ["HendrixJimmy"],
+			"image_prompt": "Profile view: HendrixJimmy singing into a Shure SM58 microphone, veins visible in his neck. Stage light catches the sweat on his collarbone and the frayed threads of his unbuttoned shirt cuff. His left foot taps in 4/4 time.",
+			"timestamp": "0:20.5",
+			"camera_motion": "Horizontal slide from nose tip to guitar headstock",
+			"camera_motion_graph": "Linear"
+		}
+	]
+}
