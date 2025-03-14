@@ -2,12 +2,17 @@
 
 ### Google (@versesunpluggedproject)
 
+### Github (versesunplugged)
+```
+https://github.com/versesunplugged/versesunplugged
+```
+
 ### YouTube (@Verses.Unplugged)
 ```
 Verses Unplugged transforms iconic song lyrics into cinematic storytelling experiences with a twist! Each episode features AI-generated voiceovers narrating lyrics with humorous, exaggerated caricatures of the artists brought to life through stunning visuals. Subscribe for unique music interpretations that blend comedy, art, and storytelling like never before!
 ```
 
-### Instagram (versesunplugged)
+### Instagram (@versesunplugged)
 ```
 🎶 Verses Unplugged 🎥
 Song lyrics as you’ve NEVER seen before!
